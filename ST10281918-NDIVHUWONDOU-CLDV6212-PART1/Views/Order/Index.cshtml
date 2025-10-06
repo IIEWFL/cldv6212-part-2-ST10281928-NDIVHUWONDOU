@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ST10281918_NDIVHUWONDOU_CLDV6212_PART1.Models.Order>
+@{
+    ViewData["Title"] = "Order";
+    var orderWithNames = ViewBag.Orders;
+}
+<h1>Orders</h1>
+
+<p><a asp-action="Create" class="btn btn-primary">Create New Orders</a></p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer</th>
+            <th>Product</th>
+            <th>Order Date</th>
+            <th>Quantity</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var o in orderWithNames)
+        {
+            <tr>
+                <td>@o.CustomerName</td>
+                <td>@o.ProductName</td> 
+               <td>@o.Order.OrderDate.ToShortDateString()</td> 
+                <td>@o.Order.Quantity</td>
+                <td>@o.Order.OrderStatus</td>
+                <td>
+                    <a asp-action="Details" asp-route-partitionKey="@o.Order.PartitionKey" asp-route-rowKey="@o.Order.RowKey">Details</a> |
+                    <a asp-action="Edit" asp-route-partitionKey="@o.Order.PartitionKey" asp-route-rowKey="@o.Order.RowKey">Edit</a> |
+                    <a asp-action="Delete" asp-route-partitionKey="@o.Order.PartitionKey" asp-route-rowKey="@o.Order.RowKey">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

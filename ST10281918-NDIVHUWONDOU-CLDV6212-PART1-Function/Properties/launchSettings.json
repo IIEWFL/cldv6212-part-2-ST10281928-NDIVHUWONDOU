@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ST10281918_NDIVHUWONDOU_CLDV6212_PART1_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7240",
+      "launchBrowser": false
+    }
+  }
+}

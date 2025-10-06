@@ -1,0 +1,38 @@
+﻿@model  IEnumerable<ST10281918_NDIVHUWONDOU_CLDV6212_PART1.Models.Customer>
+
+@{
+    ViewData["Title"] = "Customer";
+}
+
+<h2>Customer</h2>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New Customer</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Surname</th>
+            <th>Email</th>
+            <th>Cell Phone</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.CustomerFirstName</td>
+                <td>@customer.CustomerLastName</td>
+                <td>@customer.CustomerEmail</td>
+                <td>@customer.CustomerPhone</td>
+                <td>
+                    <a asp-action="Details" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Details</a> |
+                    <a asp-action="Edit" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Edit</a> |
+                    <a asp-action="Delete" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

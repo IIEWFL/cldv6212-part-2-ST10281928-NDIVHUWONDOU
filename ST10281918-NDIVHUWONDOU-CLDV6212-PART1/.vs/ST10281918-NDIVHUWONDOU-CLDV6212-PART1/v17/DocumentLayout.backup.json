@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\log\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\log\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\services\\storage\\filesharestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:services\\storage\\filesharestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\models\\queueviewlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:models\\queueviewlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\services\\storage\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:services\\storage\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\services\\storage\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:services\\storage\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\services\\storage\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:services\\storage\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|c:\\users\\ndoum\\downloads\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\st10281918-ndivhuwondou-cldv6212-part1\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5EE994-B4E3-4165-879E-484CDDA5CC02}|ST10281918-NDIVHUWONDOU-CLDV6212-PART1.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-06T21:08:40.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\FunctionService.cs",
+              "RelativeDocumentMoniker": "Services\\FunctionService.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\FunctionService.cs",
+              "RelativeToolTip": "Services\\FunctionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:39:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T20:22:48.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueueStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\Storage\\QueueStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\QueueStorageService.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\Storage\\QueueStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\QueueStorageService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:11:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:06:58.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:50:31.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:21:01.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Controllers\\LogController.cs",
+              "RelativeToolTip": "Controllers\\LogController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:05:07.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\Storage\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\BlobStorageService.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\Storage\\BlobStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\BlobStorageService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:10:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileShareStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\Storage\\FileShareStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\FileShareStorageService.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\Storage\\FileShareStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\FileShareStorageService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:10:46.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:51:03.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:31:02.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\Storage\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\Storage\\TableStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\TableStorageService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwGMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:12:30.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueViewLog.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\QueueViewLog.cs",
+              "RelativeDocumentMoniker": "Models\\QueueViewLog.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\QueueViewLog.cs",
+              "RelativeToolTip": "Models\\QueueViewLog.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:00:07.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Log\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Log\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Log\\Index.cshtml",
+              "RelativeToolTip": "Views\\Log\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T12:07:37.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:53:21.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T01:07:22.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:30:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwDQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:30:00.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:23:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:46:04.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:40:03.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T00:37:17.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:41:06.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T15:41:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:20:52.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:29:27.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T12:18:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T23:54:06.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T20:20:52.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T00:09:41.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T22:23:58.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T23:35:13.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T23:12:49.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T19:32:46.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T20:10:38.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ndoum\\Downloads\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\ST10281918-NDIVHUWONDOU-CLDV6212-PART1\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T21:23:31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

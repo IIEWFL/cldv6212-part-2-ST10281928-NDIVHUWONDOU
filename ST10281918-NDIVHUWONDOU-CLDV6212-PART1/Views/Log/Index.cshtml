@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ST10281918_NDIVHUWONDOU_CLDV6212_PART1.Models.QueueViewLog>
+@{
+    ViewData["Title"] = "Queue Logs";
+}
+
+<h1>Queue Logs</h1>
+
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+    <div class="col-2">
+        <form asp-action="Export" method="post">
+            <button type="submit" class="btn btn-success">Export Audit Log</button>
+        </form>
+    </div>
+
+</div>
+
+
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">@TempData["Message"]</div>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Message ID</th>
+            <th>Insertion Time</th>
+            <th>Messsage</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var log in Model)
+        {
+            <tr>
+                <td>@log.MessageId</td>
+                <td>@log.InsertionTime?.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                <td>@log.RawMessage</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

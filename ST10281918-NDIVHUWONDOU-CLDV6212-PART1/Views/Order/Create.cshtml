@@ -1,0 +1,42 @@
+﻿@model ST10281918_NDIVHUWONDOU_CLDV6212_PART1.Models.Order;
+@{
+    ViewData["Title"] = "Create Order";
+}
+
+<h1>Create Orders</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="CustomerId">Customer</label>
+        <select asp-for="CustomerId" class="form-control" asp-items="ViewBag.Customers"></select>
+        <span asp-validation-for="CustomerId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ProductId">Products</label>
+        <select asp-for="ProductId" class="form-control" asp-items="ViewBag.Products"></select>
+        <span asp-validation-for="ProductId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="OrderStatus">Status</label>
+        <input asp-for="OrderStatus" class="form-control" />
+        <span asp-validation-for="OrderStatus" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quantity">Quantity</label>
+        <input asp-for="Quantity" class="form-control" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="OrderDate">Order Date</label>
+        <input asp-for="OrderDate" class="form-control" type="date" />
+        <span asp-validation-for="OrderDate" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+

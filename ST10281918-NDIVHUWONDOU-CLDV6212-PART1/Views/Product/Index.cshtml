@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ST10281918_NDIVHUWONDOU_CLDV6212_PART1.Models.Product>
+
+@{
+    ViewData["Title"] = "Product";
+}
+
+<h2>Product</h2>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New Product</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price (R)</th>
+            <th>Stock</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(product.ImageSasUrl))
+                    {
+                        <img src="@product.ImageSasUrl" alt="@product.ProductName" style="max-width:100px;" />
+                    }
+                </td>
+                <td>@product.ProductName</td>
+                <td>@product.ProductDescription</td>
+                <td>@product.Price</td>
+                <td>@product.Stock</td>
+                <td>
+                    <a asp-action="Details" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey">Details</a> |
+                    <a asp-action="Edit" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey">Edit</a> |
+                    <a asp-action="Delete" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

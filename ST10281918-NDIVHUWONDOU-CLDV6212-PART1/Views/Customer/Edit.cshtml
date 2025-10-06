@@ -1,0 +1,45 @@
+﻿@model ST10281918_NDIVHUWONDOU_CLDV6212_PART1.Models.Customer;
+@{
+    ViewData["Title"] = "Edit Customer";
+}
+
+<h2>Edit Customer</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="PartitionKey" />
+    <input type="hidden" asp-for="RowKey" />
+
+    <div class="form-group">
+        <label asp-for="CustomerFirstName">First Name</label>
+        <input asp-for="CustomerFirstName" class="form-control" />
+        <span asp-validation-for="CustomerFirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CustomerLastName">Last Name</label>
+        <input asp-for="CustomerLastName" class="form-control" />
+        <span asp-validation-for="CustomerLastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CustomerEmail">Email</label>
+        <input asp-for="CustomerEmail" class="form-control" />
+        <span asp-validation-for="CustomerEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CustomerPhone">Cell Phone Number</label>
+        <input asp-for="CustomerPhone" class="form-control" />
+        <span asp-validation-for="CustomerPhone" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancel</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
